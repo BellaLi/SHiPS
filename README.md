@@ -1,6 +1,6 @@
 # Simple Hierarchy in PowerShell (SHiPS)
 
-A [PowerShell provider][ps-provider] allows any data store to be exposed like a file system as if it were a mounted drive.
+A [PowerShell provider][ps-provider] allows any data store to be exposed like a file system as if it was a mounted drive.
 In other words, the data in your data store can be treated like files and directories so that a user can navigate data via `cd` or `dir`.
 SHiPS is a PowerShell provider.
 To be more precise it's a provider utility that simplifies developing PowerShell providers.
